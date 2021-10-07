@@ -1,0 +1,3 @@
+---
+# defaults file for ansible_mockup_l_2
+test-value: "Overridden by ansible_mockup_l_2"
